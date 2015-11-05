@@ -355,7 +355,7 @@
         <footer class="container-fluid" style="background:#1796D2; color: white;">
             <h4 class="text-center">Para conocer y disfrutar debes vistarla y Descubre Ibagu&eacute; te ayuda a vivir una grata experiencia turistica</h4>
             <p class="text-center">Desarrollado por: CAFE Software  - Todos los derechos reservados</p>
-            
+            <p>Todos los derechos reserv</p>
         </footer>
     </body>
 </html>
